@@ -1,0 +1,35 @@
+.nnn{
+	    margin: 0;
+    padding: 0;
+}
+
+.col1{
+    width: 680px;
+    height: 600px;
+    margin-left: -109px;
+    overflow: auto;
+}
+.col2{
+    width:630px;
+    height:295px ;
+    margin-bottom: 10px;
+    margin-right: -130px;
+    /*padding-right: -100px;*/
+    overflow: auto;
+
+}
+
+.xxx{
+   /* overflow: auto; */
+    margin: 0;
+    padding: 0;
+}
+
+.yyyy{
+    padding: 0px;
+    margin: 0px;
+}
+
+.vvv{
+    padding: 2px;
+}
